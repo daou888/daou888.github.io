@@ -1,5 +1,6 @@
 # 其他博客链接
 
-- [【iMessage?什么是苹果推信?】](hhttps://imessagee.github.io/)
-- [【iM群发部署,苹果推是什么】](https://imessagee.github.io/)
-- [【什么是苹果推信?什么是苹果推?】](https://imessagee.github.io/)
+- [【网v络安全防御】](https://daou888.github.io/pic/DaoUU888.jpg)
+- [【加密货币保护】](https://daou888.github.io/pic/DaoUU888.jpg)
+- [【恶意代码】](https://daou888.github.io/pic/DaoUU888.jpg)
+- [【网络诈骗】](https://daou888.github.io/pic/DaoUU888.jpg)

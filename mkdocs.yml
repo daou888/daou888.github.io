@@ -1,5 +1,5 @@
 # [Info]
-site_name: 【盗U系统 盗U源码 剪切板劫持 剪切板幽灵】 ✈️@DaoUU888 # 左上角标题
+site_name: 【盗U软件系统 盗U源码 剪切板劫持 剪切板幽灵】 ✈️@DaoUU888 # 左上角标题
 site_url: https://daou888.github.io/
 site_author: ✈️@DaoUU888
 site_description: ✈️@DaoUU888
@@ -44,13 +44,6 @@ nav:
       - IMQK/IMQK1/IM2318.md
       - IMQK/IMQK1/IM2319.md
       - IMQK/IMQK1/IM2320.md
-      - IMQK/IMQK1/IM2321.md
-      - IMQK/IMQK1/IM2322.md
-      - IMQK/IMQK1/IM2323.md
-      - IMQK/IMQK1/IM2324.md
-      - IMQK/IMQK1/IM2325.md
-      - IMQK/IMQK1/IM2326.md
-      - IMQK/IMQK1/IM2327.md
   - crypto-clipper:
     - iMessage push/index.md
     - 【iMessage苹果推】:
@@ -117,7 +110,7 @@ nav:
       - ESSAY/Jottings/16.md
       - ESSAY/Jottings/230822.md
     - 文章:
-      - ESSAY/Articles/【什么是im推imessage群控推】.md
+      - ESSAY/Articles/【剪贴簿劫持恶意软体可以窃取你的加密货币】.md
   - 关于iMess:
     - ME/index.md
 
