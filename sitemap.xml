@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 首页 -->
+  <url>
+    <loc>https://daou888.github.io/</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- 栏目页 -->
+  <url>
+    <loc>https://daou888.github.io/BLOG/</loc>
+  </url>
+  <url>
+    <loc>https://daou888.github.io/ESSAY/</loc>
+  </url>
+  <url>
+    <loc>https://daou888.github.io/IMQK/</loc>
+  </url>
+  <url>
+    <loc>https://daou888.github.io/REPRODUCE/</loc>
+  </url>
+  <url>
+    <loc>https://daou888.github.io/ME/</loc>
+  </url>
+
+  <!-- BLOG 内容页 -->
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2301/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2302/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2303/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2304/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2305/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2306/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2307/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2308/</loc></url>
+  <url><loc>https://daou888.github.io/BLOG/iMessage1/2309/</loc></url>
+
+  <!-- ESSAY 内容页（仅保留真实内容页） -->
+  <url><loc>https://daou888.github.io/ESSAY/Articles/%E5%89%AA%E8%B4%B4%E7%B0%BF%E5%8A%AB%E6%8C%81%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BD%93%E5%8F%AF%E4%BB%A5%E7%AA%83%E5%8F%96%E4%BD%A0%E7%9A%84%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2301/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2302/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2303/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2304/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2305/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2306/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/2307/</loc></url>
+  <url><loc>https://daou888.github.io/ESSAY/Jottings/230822/</loc></url>
+
+  <!-- IMQK 内容页 -->
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2301/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2302/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2303/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2304/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2305/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2306/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2307/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2308/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2309/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2310/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2311/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2312/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2313/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2314/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2315/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2316/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2317/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2318/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2319/</loc></url>
+  <url><loc>https://daou888.github.io/IMQK/IMQK1/IM2320/</loc></url>
+
+  <!-- REPRODUCE 内容页 -->
+  <url><loc>https://daou888.github.io/REPRODUCE/Z2301/</loc></url>
+  <url><loc>https://daou888.github.io/REPRODUCE/Z2302/</loc></url>
+  <url><loc>https://daou888.github.io/REPRODUCE/Z2303/</loc></url>
+  <url><loc>https://daou888.github.io/REPRODUCE/Z2304/</loc></url>
+  <url><loc>https://daou888.github.io/REPRODUCE/Z2305/</loc></url>
+  <url><loc>https://daou888.github.io/REPRODUCE/Z2306/</loc></url>
+
+</urlset>
